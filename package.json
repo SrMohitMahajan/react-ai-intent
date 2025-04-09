@@ -1,0 +1,42 @@
+{
+  "name": "react-ai-intent",
+  "version": "1.0.0",
+  "description": "Detect user intent from text using OpenAI or Gemini in React",
+  "main": "dist/react-ai-intent.umd.js",
+  "module": "dist/react-ai-intent.es.js",
+  "types": "dist/types/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "react",
+    "ai",
+    "intent",
+    "openai",
+    "gemini",
+    "hook",
+    "react-hook",
+    "react-library",
+    "typescript"
+  ],
+  "author": "Mohit Mahajan",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.3.3",
+    "vite": "^6.2.5",
+    "vite-plugin-dts": "^4.5.3"
+  }
+}
