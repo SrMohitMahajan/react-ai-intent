@@ -1,6 +1,6 @@
 {
   "name": "react-ai-intent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect user intent from text using OpenAI or Gemini in React",
   "main": "dist/react-ai-intent.umd.js",
   "module": "dist/react-ai-intent.es.js",
@@ -40,7 +40,7 @@
     "vite-plugin-dts": "^4.5.3"
   },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/SrMohitMahajan/react-ai-intent.git"
-}
+    "type": "git",
+    "url": "git+https://github.com/SrMohitMahajan/react-ai-intent.git"
+  }
 }
