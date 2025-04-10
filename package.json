@@ -1,6 +1,6 @@
 {
   "name": "react-ai-intent",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Detect user intent from text using OpenAI or Gemini in React",
   "main": "dist/react-ai-intent.umd.js",
   "module": "dist/react-ai-intent.es.js",
