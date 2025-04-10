@@ -6,7 +6,8 @@
   "module": "dist/react-ai-intent.es.js",
   "types": "dist/types/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "build": "vite build",
